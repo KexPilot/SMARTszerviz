@@ -1,0 +1,2 @@
+# SMARTszerviz
+Szoftvertechnológia csapatfeladat
